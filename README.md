@@ -1,7 +1,7 @@
 # Sample Website
 
 This is a simple website made as part of [*Learn Enough Git™ to Be Dangerous*](http://learnenough.com/git-tutorial), possibly the greatest Git tutorial in the history of the Universe.
-You should totally [check it out](http://learnenough.com/git-tutorial), and be sure to [join the email list](https://www.learnenough.com/#email_list)and [follow @learnenough](http://twitter.com/learnenough) on Twitter.
+You should totally [check it out](http://learnenough.com/git-tutorial), and be sure to [join the email list](https://www.learnenough.com/#email_list)and [follow @learnennough](http://twitter.com/learnenough) on Twitter.
 
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
